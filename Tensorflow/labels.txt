@@ -1,0 +1,6 @@
+bagpacks
+eyewear
+handbags
+shoes
+socks
+watches
